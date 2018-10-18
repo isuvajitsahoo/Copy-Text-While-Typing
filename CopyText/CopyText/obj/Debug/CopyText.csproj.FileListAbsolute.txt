@@ -1,0 +1,15 @@
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\bin\Debug\CopyText.exe.config
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\bin\Debug\CopyText.exe
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\bin\Debug\CopyText.pdb
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.csprojAssemblyReference.cache
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\MainWindow.g.cs
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\App.g.cs
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText_MarkupCompile.cache
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText_MarkupCompile.lref
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\MainWindow.baml
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.g.resources
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.Properties.Resources.resources
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.csproj.GenerateResource.cache
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.csproj.CoreCompileInputs.cache
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.exe
+D:\Users\suvasaho\.Net Foldar\CopyText\CopyText\obj\Debug\CopyText.pdb
